@@ -2,6 +2,11 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Yeltsin Gimenez",
   "description": "Proyecto freecodecamp.",
+  "keywords": [
+    "freecodecamp",
+    "Nala",
+    "Negra"
+  ],
   "dependencies": {
     "express": "^4.14.0"
   },
